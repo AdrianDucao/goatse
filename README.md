@@ -14,7 +14,7 @@ $ ./server.py
 $ sudo chmod 775 goatse.py
 $ ./goatse.py
 ```
-2. create an exe file using pyinstaller
+2. create an exe file using pyinstaller, exe file is located in dist folder
 ```
 $ pyinstaller --onefile goatse.py
 ```
